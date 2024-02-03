@@ -1,0 +1,17 @@
+{
+  "name": "nishal/user-service",
+  "require": {
+    "laravel/framework": "^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nishal\\UserService\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Nishal Gurung",
+      "email": "nishal.gurung4@outlook.com"
+    }
+  ]
+}
